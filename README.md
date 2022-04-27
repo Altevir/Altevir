@@ -15,6 +15,7 @@
 
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=csharp&logoColor=white&color=1e88e5)
 ![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=1e88e5)
+![](https://img.shields.io/badge/Code-Xamarin-informational?style=flat&logo=xamarin&logoColor=white&color=1e88e5)
 ![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=1e88e5)
 ![](https://img.shields.io/badge/Database-SQLServer-informational?style=flat&logo=sql&logoColor=white&color=1e88e5)
 ![](https://img.shields.io/badge/Database-MySql-informational?style=flat&logo=mysql&logoColor=white&color=1e88e5)
